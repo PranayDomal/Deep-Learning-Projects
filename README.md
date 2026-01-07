@@ -22,7 +22,9 @@ This repository provides an overview of my key Deep Learning projects.
     - **Technologies Used:** Python, Pandas, NumPy, Matplotlib, Seaborn, NLTK, scikit-learn, naive bayes, MultinomialNB.
     - **Results:** The final model performs fairly well, with an accuracy score: ~97.00% and precision and recall for spam messages are 0.99 and 0.82.
     - **Project Link:** [View Repository](https://github.com/PranayDomal/Cat-Dog-CNN)
-  
+
+---
+
 ## **Feedback and Contact**
 
 I welcome any feedback, suggestions, or questions you may have about the projects or any kind of sponsorships for the repository. Feel free to reach out to me via
